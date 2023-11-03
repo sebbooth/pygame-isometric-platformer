@@ -10,3 +10,5 @@ Python iso.py
 
 wasd controls, space to jump.
 'f' key with mirror tilemap.
+
+![](isodemo.gif)
